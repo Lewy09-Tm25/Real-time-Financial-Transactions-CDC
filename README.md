@@ -21,7 +21,6 @@ This Python script is designed to generate simulated financial transactions and 
 - **Zookeeper:** A centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
 - **Kafka Broker:** A distributed streaming platform that is used here for handling real-time data feeds. A web-based tool, Confluent Control Center monitors the changes in the Kafka broker.
 - **Debezium:** An open-source distributed platform for change data capture.
-- **Debezium UI:** A user interface for managing and monitoring Debezium connectors.
 - **Postgres:** An open-source relational database.
 
 ## Getting Started
