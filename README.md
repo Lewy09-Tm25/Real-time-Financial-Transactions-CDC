@@ -14,7 +14,7 @@ This Python script is designed to generate simulated financial transactions and 
    ```
 2. Python 3.9+
 3. PostgreSQL server
-4. Docker and Docker Compose
+4. Docker Installation
 
 ## Services in the Docker Compose File
 
